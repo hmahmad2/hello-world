@@ -1,4 +1,3 @@
 # hello-world
-Gonna put simple stuff in here
-I like cats, for instance
-and I also like dogs, but i'm allergic to them.
+
+I like cats, and dogs too, but I'm allergic to dogs.
